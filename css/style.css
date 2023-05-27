@@ -85,7 +85,7 @@ section {
   width: 70%;
   height: 30vw;
   border-radius: 50%;
-  background-image: url("/images/home2.png");
+  background-image: url("../images/home2.png");
   background-size: cover;
   background-color: var(--main-color);
   background-repeat: no-repeat;
